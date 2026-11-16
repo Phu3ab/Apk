@@ -1,0 +1,7 @@
+{
+  "appId": "de.bach.foetools",
+  "appName": "FoE Tools",
+  "webDir": "www",
+  "backgroundColor": "#1A1F2E",
+  "android": { "allowMixedContent": false }
+}
